@@ -6,3 +6,8 @@ El proyecto va a tratar acerca de un gimnasio, el cual está pensado para que el
 Este programa va a incluir empleados y clientela y cada uno va a tener diferentes atributos y métodos.
 
 Avance 2: cliente.h y empleado.h
+
+Avance 3: 
+  update: cliente.h y empleado.h
+  new: gimnasio.h y gym.cpp
+Está ya comentado todo el documento y se usan todas las funciones creadas
